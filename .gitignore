@@ -1,0 +1,15 @@
+# Ignora pastas de ambiente virtual e arquivos temporários
+venv/
+__pycache__/
+*.pyc
+
+# Arquivos gerados por PyInstaller
+dist/
+build/
+*.spec
+
+# Configurações do PyCharm
+.idea/
+
+# Notebooks (se você usou algum e não quer versionar)
+*.ipynb
